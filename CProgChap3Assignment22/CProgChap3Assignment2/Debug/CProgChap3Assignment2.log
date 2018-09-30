@@ -1,3 +1,2 @@
 ﻿  platinum.cpp
-c:\users\user\documents\visual studio 2015\projects\cprogchap3assignment2\cprogchap3assignment2\platinum.cpp(26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\user\documents\visual studio 2015\projects\cprogchap3assignment2\cprogchap3assignment2\platinum.cpp(6): fatal error C1075: the left brace '{' was unmatched at the end of the file
+  CProgChap3Assignment2.vcxproj -> C:\Users\user\Documents\GitHub\cprogchap3assignment-201414149\CProgChap3Assignment22\Debug\CProgChap3Assignment2.exe
